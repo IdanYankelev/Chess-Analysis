@@ -1,4 +1,5 @@
-# Chess Through Space, Time, and Data: A Statistical Exploration
+# Chess Through Space, Time, and Data: 
+# A Statistical Exploration
 
 ## Overview
 This project presents a data-driven analysis of chess evolution, focusing on three key dimensions: **space, time, and statistical insights**. By leveraging historical game records from *The Week in Chess (TWIC)* archive, this study explores the geographical distribution of chess activity, trends in openings and player rankings over time, and statistical correlations between openings, Elo ratings, and game outcomes. The findings provide valuable insights for chess players, analysts, and enthusiasts.
