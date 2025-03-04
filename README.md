@@ -6,7 +6,6 @@ This project presents a data-driven analysis of chess evolution, focusing on thr
 ## Authors
 - **Idan Yankelev**
 - **Michael Fire**
-- Department of Software and Information Systems Engineering, Ben-Gurion University of the Negev, Be’er-Sheva, Israel
 
 ## Key Features
 ### 1. Temporal Trends
